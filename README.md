@@ -1,6 +1,6 @@
 Project Title:___________________
 
-Super store sales and profit performance dashboard
+SUPER_STORE SALES ANALYTICS DASHBOARD
 
 Project Objective :_________________________
 
