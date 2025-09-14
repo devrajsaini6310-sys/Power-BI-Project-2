@@ -24,7 +24,7 @@ Key Performance Indicators to monitor overall performance at a glance.
 
 DATA SOURCE :__________________________
 
-The dataset is an Excel file named Reliancr_super_store_data.xlsx containing detailed sales transactions.
+The dataset is an Excel file named Global_super_store_data.xlsx containing detailed sales transactions.
 
 DATA TRANSFORMATION AND CLEANING :______________________________________
 
