@@ -80,6 +80,6 @@ Online Power BI Dashboard & Reports.md : The Power BI Service file to view Repor
 
 Global_super_store_sales_Report.pbix : The Power BI report file.
 
-Reliance_super_store_data.xlsx : The dataset used for the report.
+Global_super_store_data.xlsx : The dataset used for the report.
 
 README.md: This file.
