@@ -26,7 +26,7 @@ DATA SOURCE :__________________________
 
 The dataset is an Excel file named Reliancr_super_store_data.xlsx containing detailed sales transactions.
 
-DATA TRANSFORMATION DATA CLEANING :______________________________________
+DATA TRANSFORMATION AND CLEANING :______________________________________
 
 I used Power Query Editor to clean and prepare the data.
 
