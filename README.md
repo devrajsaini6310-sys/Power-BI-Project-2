@@ -1,8 +1,8 @@
-Project Title:___________________
+PROJECT TITLE :___________________
 
 SUPER_STORE SALES ANALYTICS DASHBOARD
 
-Project Objective :_________________________
+PROJECT OBJECTIVE :_________________________
 
 Interactive sales dashboard built in Power BI to analyze and visualize sales performance, profitability, and key metrics for a superstore.
 
@@ -12,27 +12,27 @@ offering key insights into performance and trends.
 
 The report is designed for business users to quickly understand sales dynamics and make data-driven decisions.
 
-Key Features:__________________________
+KEY FEATURES :__________________________
 
 Interactive slicers for filtering data by category, subcategory, segment, state, city, region and time.
 
 Visualizations for sales trends, profit analysis, and customer segmentation.
 
-KPIs :__________________________
+KPIS :__________________________
 
 Key Performance Indicators to monitor overall performance at a glance.
 
-Data Source and Preparation :__________________________
+DATA SOURCE :__________________________
 
 The dataset is an Excel file named Reliancr_super_store_data.xlsx containing detailed sales transactions.
 
-Data Transformation and Data cleaning :______________________________________
+DATA TRANSFORMATION DATA CLEANING :______________________________________
 
 I used Power Query Editor to clean and prepare the data.
 
 I handling of missing values, removing duplicates, and correcting data type.
 
-Data Modeling and Relationships :_____________________________
+DATA MODELING AND RELATIONSHIPS :_____________________________
 
 Relationships: List the key relationships have established.
 
@@ -44,7 +44,7 @@ Returns table: Fact table linked to Pepole on Region.
 
 Returns table : Fact table linked to Orders on Region.
 
-Dashboard Visualizations :____________________________
+DATA VISUALIZATION :____________________________
 
 Line Chart:- Sales and Profit Over Time to identify seasonal trends.
 
@@ -52,7 +52,7 @@ Bar Chart, Column Chart, Pie chart, Dounut Chart :-
 
 Sales and Profit by Category, subcategory, segment, state, city and Region to compare performance across different geographical areas.
 
-Key Insights:_________________________________
+KEY INSIGHTS:_________________________________
 
 This dashboard provides a comprehensive view of sales performance, profitability, and customer behavior.
 
@@ -64,7 +64,7 @@ Identify top-performing Geographical locations.
 
 Pinpoint areas of low profitability for strategic intervention.
 
-How to View this dashboard and Interact :__________________________________
+HOW TO VIEW THIS DASHBOARD AND INTERACT :__________________________________
 
 the software required to view this report, you need Power BI Desktop installed on your computer.
 
@@ -74,9 +74,9 @@ Open the .pbix file with Power BI Desktop.
 
 Use the filters and slicers to interact with the data and explore different segments.
 
-Repository Structure:__________________________________
+REPOSITORY STRUCTURE:__________________________________
 
-Files:___________________________________________
+FILES :___________________________________________
 
 Online Power BI Reports.md: The Power BI Service file to view Reports on Online.
 
