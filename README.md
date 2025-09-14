@@ -68,7 +68,7 @@ HOW TO VIEW THIS DASHBOARD AND INTERACT :__________________________________
 
 the software required to view this report, you need Power BI Desktop installed on your computer.
 
-Download this repository to your PC.
+Download this repository on your PC.
 
 Open the .pbix file with Power BI Desktop.
 
