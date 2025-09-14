@@ -34,13 +34,15 @@ I handling of missing values, removing duplicates, and correcting data type.
 
 Data Modeling and Relationships :_____________________________
 
-I have only one dataset in this Project that is Orders table.
+Relationships: List the key relationships have established.
 
-but if we have you multiple data tables in a project then we have required a data model
+Orders table: The primary fact table containing transactional data.
 
-to create a relationship between multiples tables for analyze them.
+People table: Dimension table linked to Orders on Region.
 
-in this dataset we do not need to build a modeling.
+Returns table: Fact table linked to Pepole on Region.
+
+Returns table : Fact table linked to Orders on Region.
 
 Dashboard Visualizations :____________________________
 
