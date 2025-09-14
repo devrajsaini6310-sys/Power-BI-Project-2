@@ -78,7 +78,7 @@ Files:___________________________________________
 
 Online Power BI Dashboard & Reports.md : The Power BI Service file to view Reports on Online.
 
-Reliance_super_store_sales_Report.pbix : The Power BI report file.
+Global_super_store_sales_Report.pbix : The Power BI report file.
 
 Reliance_super_store_data.xlsx : The dataset used for the report.
 
