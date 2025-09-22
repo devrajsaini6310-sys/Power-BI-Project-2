@@ -1,6 +1,6 @@
 PROJECT TITLE :___________________
 
-SUPER_STORE SALES ANALYTICS DASHBOARD
+GLOBAL SUPER STORE SALES AND PROFIT PERFORMANCE DASHBOARD
 
 PROJECT OBJECTIVE :_________________________
 
@@ -78,7 +78,7 @@ REPOSITORY STRUCTURE:__________________________________
 
 FILES :___________________________________________
 
-Online Power BI Reports.md: The Power BI Service file to view Reports on Online.
+Global super store dashboard.md : Power BI Service file to view Reports on Online.
 
 Global super store performance dashboard.pbix: Power BI Desktop file.
 
