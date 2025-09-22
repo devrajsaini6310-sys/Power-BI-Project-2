@@ -78,7 +78,7 @@ REPOSITORY STRUCTURE:__________________________________
 
 FILES :___________________________________________
 
-Global super store dashboard.md : This Power BI Service file to view Dashboard on Online.
+Global super store dashboard.md : This Power BI Service file to view Reports on Online.
 
 Global super store performance dashboard.pbix: This Power BI Desktop file.
 
